@@ -6,7 +6,7 @@
 
 1. [Preprocessing of LSMS survey data](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_ESS_variable_preproc.R)
 2. [Food access index construction using PCA](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_LSMS_PCA.R)
-3. [Cereal price prediction](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_WFP_PricePrediction_v3.R)
+3. [Cereal price prediction](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Cereal_price/ETH_WFP_PricePrediction_v3.R)
 4. [Population-weighted averaging](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_geoAveraging_1km.R) - run after spatially joining the geospatial input with the grids for averaging.
 5. [Variable selection with RF](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_RF_varsel.R)
 6. [GAM training and FAI prediction](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_GAM.R)
