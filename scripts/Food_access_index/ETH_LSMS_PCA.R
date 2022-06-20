@@ -1,7 +1,7 @@
 # Food Access Index Construction in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-02-16
 #
 # This script requires the ff R packages for FAI construction:
 #     FactoMiner - for PCA
@@ -9,7 +9,7 @@
 #     corrplot - for multicollinearity diagnostic plots
 #   
 # This script requires the result from the ETH_ESS_variable_preproc.R script.
-# This script also requires the VIFcalc.R script by Thomas Groen.
+# This script also requires the VIFcalc.R script by Dr. Thomas Groen.
 # 
 # Notes:
 # (a) All file paths and names should be changed as needed

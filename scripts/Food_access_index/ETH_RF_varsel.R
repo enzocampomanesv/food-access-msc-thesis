@@ -1,14 +1,14 @@
 # Variable selection (for FAI extrapolation) using Random Forest in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-02-25
 #
 # This script requires the ff R packages for variable selection:
 #     randomForest - tuning mTry and testing RFs with different variables
 #     VSURF - first phase, variable selection (importance and performance)
 #     rfPermute - second phase, variable selection (significance)
 #
-# This script requires the pop-weighted average input data
+# This script requires the population-weighted average input data
 # from the ETH_geoAveraging_1km.R script.
 #
 # Notes:

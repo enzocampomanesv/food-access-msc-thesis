@@ -1,12 +1,13 @@
 # Living Standard Measurement Study (LSMS) Variable Preprocessing in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-02-16
 #
 # This script only requires base R packages.
 #
-# This script requires the one user supplied dataset:
+# This script requires one user supplied dataset:
 # Ethiopia 2018 LSMS dataset
+# (Source: https://microdata.worldbank.org/index.php/catalog/3823/study-description)
 #
 # Notes:
 # (a) All file paths and names should be changed as needed

@@ -1,17 +1,17 @@
 # FAI extrapolation using GAM in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-04-03
 #
 # This script requires the ff R packages for GAM optimization and viz:
 #     mgcv - GAM implementation
 #     tidymv - visualize GAM
 #
 # This script requires two datasets:
-#   (1) the pop-weighted average input data 
+#   (1) the population-weighted average input data 
 #       from the ETH_geoAveraging_1km.R script.
 #
-#   (2) the complete input dataset (test) created in GIS.
+#   (2) the complete input (test) dataset created in GIS.
 #
 # Notes:
 # (a) All file paths and names should be changed as needed

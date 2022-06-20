@@ -1,7 +1,7 @@
 # Food access inequality quantification in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-05-04
 #
 # This script requires the ff R package/s:
 #   DescTools - inequality indices calculation (Gini)

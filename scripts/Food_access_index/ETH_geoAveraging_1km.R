@@ -1,12 +1,11 @@
 # Population weighted averaging geospatial input in R
 # 
 # Florencio Campomanes V
-# 2022-06-17
+# 2022-02-25
 #
 # This script only requires base R packages.
-#   
 #
-# This script is run after obtaining results from spatial joining
+# This script should be run after obtaining results from spatial joining
 # the value grids with the average grids in GIS.
 #
 # Notes:
