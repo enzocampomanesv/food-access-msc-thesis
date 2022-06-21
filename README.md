@@ -26,7 +26,6 @@
 ![Monthly FAI differences from annual average FAI](./plots/GAM/FAI_formal_monthly_geo_fixed.jpeg)
 ---
 ## **B. Scenario building for food accessibility**
----
 #### A R Shiny dashboard application was developed for food access scenario building. The app allows users to simulate shocks to the system like conflict, increased cereal prices, and increased precipitation during the coldest quarter. The app then predicts the food access index on-the-fly based on such shocks and the different plots on food access and food access inequality per URCA are also updated. Below is a screenshot of the dashboard which is also [available online](https://enzocampomanes.shinyapps.io/fai_combined/).
 ---
 ![Food access scenario development application](./plots/Shiny_app/FAI_webApp.png)
