@@ -3,7 +3,7 @@
 ### This repository contains all the R scripts used in the development of the food accessibility index (FAI) for Ethiopia as part of my MSc thesis. It also contains all maps and plots created from the scripts.
 ---
 ## **A. Food Access Index Development**
-### Each script has its own purpose and requirements and should be run in this sequence of steps to reproduce the results in the MSc thesis:
+#### Each script has its own purpose and requirements and should be run in this sequence of steps to reproduce the results in the MSc thesis:
 
 1. [Preprocessing of LSMS survey data](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_ESS_variable_preproc.R)
 2. [Food access index construction using PCA](https://github.com/enzocampomanesv/food-access-msc-thesis/blob/main/scripts/Food_access_index/ETH_LSMS_PCA.R)
@@ -27,6 +27,6 @@
 ---
 ## **B. Scenario building for food accessibility**
 ---
-### A R Shiny dashboard application was developed for food access scenario building. The app allows users to simulate shocks to the system like conflict, increased cereal prices, and increased precipitation during the coldest quarter. The app then predicts the food access index on-the-fly based on such shocks and the different plots on food access and food access inequality per URCA are also updated. Below is a screenshot of the dashboard which is also [available online](https://enzocampomanes.shinyapps.io/fai_combined/).
+#### A R Shiny dashboard application was developed for food access scenario building. The app allows users to simulate shocks to the system like conflict, increased cereal prices, and increased precipitation during the coldest quarter. The app then predicts the food access index on-the-fly based on such shocks and the different plots on food access and food access inequality per URCA are also updated. Below is a screenshot of the dashboard which is also [available online](https://enzocampomanes.shinyapps.io/fai_combined/).
 ---
 ![Food access scenario development application](./plots/Shiny_app/FAI_webApp.png)
